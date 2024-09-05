@@ -578,7 +578,7 @@ align-items: center;    }
          flex-direction: column;
          justify-content: center;
         align-items: center; 
-        gap:10px;
+        gap:2px;
     }
 
     .footer button{
@@ -600,7 +600,7 @@ align-items: center;    }
         display: flex;
         justify-content: center;
         align-items: center;
-        gap: 10px;
+        gap: 5px;
     }
 
     .list-footer{
@@ -610,6 +610,7 @@ align-items: center;    }
         display: grid;
         grid-template-columns: auto auto;
         grid-template-rows: auto auto auto auto auto auto auto auto;
+
     }
 
 .footer-li1{
